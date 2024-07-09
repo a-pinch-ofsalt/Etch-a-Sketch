@@ -1,0 +1,15 @@
+#sketchpad {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+    width: 40%;
+    position: relative;
+}
+
+.pixel {
+    background-color: #eee;
+}
+
+.pixel:hover {
+    background-color: black;
+}
